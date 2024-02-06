@@ -1,5 +1,5 @@
-export async function load() {
-    const apiKey = `B/h3bcauprFPt8/2UaeEOQ==bQqEEgbWkNbr4JXE`;
+/*export async function load() {
+    const apiKey = API_KEY;
     const query = 'beef';
     const url = `https://api.api-ninjas.com/v1/nutrition?query=${query}`;
     const options = {
@@ -31,3 +31,4 @@ export async function load() {
         throw error;  // Rethrow the error to trigger error handling in SvelteKit
     }
 }
+*/
